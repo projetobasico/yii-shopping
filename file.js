@@ -1,1 +1,1 @@
-Update documentation
+Refactor user authentication logic
