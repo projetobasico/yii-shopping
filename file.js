@@ -1,1 +1,1 @@
-Enhance form validation
+Refactor user authentication logic
