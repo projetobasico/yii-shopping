@@ -1,1 +1,1 @@
-Update dependencies
+Improve error handling in API
