@@ -1,1 +1,1 @@
-Update dependencies
+Improve image loading performance
